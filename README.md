@@ -1,2 +1,2 @@
 # Wallet-App
-Carteira digital desenvolvida com TS e React native, com finalidade de estudos
+Carteira digital desenvolvida com TS e React native
